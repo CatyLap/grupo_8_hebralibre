@@ -20,3 +20,5 @@ Andres Siva- Entusiasta y curioso de aprender nuevas metodologias y herramientas
 Alejandra Abachino (Cecilia Alejandra Abachino) soy estudiante de la universdidad y el profesorado, me llama mucho la atencion de la programacion. Me gusta aprender y enseñar. El mayor tiempo lo ocupa mis dos hijas que son el motor del dia a dia. me gusta que mi mente este ocupada para superar la enfermedad que tengo. Con muchas ganas de aprender tanto de los profes como de mis compañeros.
 
 Emilce Soto (Emilce Mercedes Soto Bejarano) estudiante de programacion, emprendedora y con ganas de dedicarme completamente al mundo IT
+
+Agustin Castellón (Agustin Miqueas Castellón), soy estudiante de la carrera "Analista y Programador Universitario" en la facultad de ingeniería, hace no mucho tiempo descubri el mundo de la programación, pero desde que la conocí paso todos los días queriendo aprender algo nuevo. En mi tiempo libre me gusta jugar videojuegos y leer. 
