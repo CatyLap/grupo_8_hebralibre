@@ -9,6 +9,8 @@ De la pagina https://www.universodani.com.ar/ me gusto el menu de opciones despl
 Pagina https://bordadospraiaia.com.br/, el producto ofrecido son bordados. Apunta al público que aprecia el arte, la cultura que quieren aprender o perfeccionar sus técnicas de bordado y aquarela. La pagina presenta una estética moderna y femenina. Proporciona información de sus productos y cursos. Permite a los usuarios añadir los productos que quieran al carrito de compras y realizar el pedido online. Facilita el contacto a través de un formulario, un correo electrónico o un teléfono.
 Pagina https://linktr.ee/laruta_delfotobordado ofrece productos donde se combinan fotos y bordados, cursos, tutoriales relacionadas con el foto bordado. Su publico son personas interesadas en el arte, el bordado, la fotografía y la identidad latinoamericana. Muestra el catálogo de productos que se pueden comprar a través de la plataforma Mercado Libre. Permite acceder a las diferentes plataformas y redes sociales.
 
+Enlace al tablero de trabajo de Trello: https://trello.com/invite/b/BA7uCaUg/ATTI1d2ba9db37d23726843a9f6d99c5595433F4B2EC/espacio-de-trabajo-hebra-libre
+
 Integrantes del grupo 4
 
 Caty Laporta (catalina laporta perucca), principiante en este mundo de la programación y el diseño web, entusiasta aprendiz. Actualmente trabajo en la administración de APPaCe. Desde hace unos cuantos meses, me inicié en este mundo atraida por Argentina Programa, y por la difusión que se le da a la demanda laboral de este sector. Amante de la naturaleza, trato de reducir al máximo posible mi huella de carbono. Espero poder utilizar estos conocimientos para hacer aplicaciones que sean útiles para la comunidad.
