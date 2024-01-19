@@ -25,3 +25,4 @@ app.get('/nosotros', (req, res) => {
     res.sendFile(path.resolve(__dirname, './views/about.html'));
 });
 
+app.use(express.static('public'));
