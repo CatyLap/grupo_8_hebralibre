@@ -1,0 +1,14 @@
+{
+  "name": "grupo_8_hebralibre",
+  "version": "1.0.0",
+  "description": "Web and e-commerce de Hebra Libre\r En este proyecto el publico encotrara una exposicion de los trabajos bordados sobre fotografias, o en bastidor, con opcion de compra sobre aquellos que esten en stock. Tendran tambien acceso a la oferta de cursos, talleres y patrones. Encontraran una seccion de tips ordenados por categoria que podran consultar permanentemente como herramienta de trabajo de acceso gratuito. El emprendimiento esta dirigido a cualquuier persona que aprecie el arte del bordado, ya sea como hobbie brindandole herramientas para su desempeño. como para aquellos que prefieren adquirir los productos ya elaborados por Guadalupe.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
