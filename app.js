@@ -9,7 +9,7 @@ app.listen(3030, () => {
 });
 
 app.use(express.static(path.join(__dirname, '/public')));
-// Ruta para cargar index.html cuando se acceda a /home
+// Ruta para cargar index.html cuando se acceda al home
 app.get('/catalogo', (req, res) => {
     let rutaHtml = path.resolve(__dirname, './views/catalogo.html');
     res.sendFile(rutaHtml, (err) => {
