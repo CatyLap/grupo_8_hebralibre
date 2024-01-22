@@ -54,9 +54,18 @@ app.get('/producto', (req, res) => {
     res.sendFile(path.join(viewsPath, 'producto.html'));
 
 });
+app.get('/carrito', (req, res) => {
+    res.sendFile(path.join(viewsPath, 'carrito.html'));
+});
+
+app.get('/registro', (req, res) => {
+    res.sendFile(path.join(viewsPath, 'register.html'));
+});
 
 app.get('/nosotros', (req, res) => {
     res.sendFile(path.join(viewsPath, 'about.html'));
 });
+
+
 
 app.use(express.static('public'));
