@@ -1,4 +1,4 @@
 function cambiarImagen(rutaImagen) {
-    var imagenPrincipal = document.getElementById("imagenPrincipal");
+    var imagenPrincipal = document.getElementById('imagenPrincipal');
     imagenPrincipal.src = rutaImagen;
 }
